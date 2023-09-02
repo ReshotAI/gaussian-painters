@@ -38,7 +38,7 @@ def create_dataset(args):
     
     with open(sparse_dir / "images.txt", "w") as f:
         f.write(f"1 1 0 0 0 0 0 {focal} 1 {img_path.name}\n\n")
-        f.write(f"2 {math.sqrt(2)/2} 0 {math.sqrt(2)/2} 0 0 0 {focal} 2 {img2.name}\n\n")
+        f.write(f"2 {math.sqrt(2)/2} 0 {math.sqrt(2)/2} 0 0 0 {focal} 2 black.jpg\n\n")
     
     with open(sparse_dir / "points3D.txt", "w") as f:
         BLOCKS = 10
