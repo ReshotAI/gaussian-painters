@@ -12,6 +12,10 @@ After having installed the 3D Gaussian Splatting code, run the following command
 python create_dataset.py --img_path /path/to/image --output_dir /path/to/output_dir
 ```
 
+You can disable the `opacity_reset_interval` argument by setting it to 30_000.
+
+You can also set `sh_degree` to 0 to disable viewdependent effects.
+
 This will create a dataset ready to be trained with the Gaussian Splatting code.
 
 
