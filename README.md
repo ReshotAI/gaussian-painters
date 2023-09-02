@@ -18,6 +18,16 @@ You can also set `sh_degree` to 0 to disable viewdependent effects.
 
 This will create a dataset ready to be trained with the Gaussian Splatting code.
 
+## Experiments
+
+- Orthogonal images (using `create_dataset2.py`)
+
+https://github.com/ReshotAI/gaussian-painters/assets/16474636/4799f0b6-ed29-412e-9875-4a790ecbbaaf
+
+- Steganography (using `create_dataset3.py`)
+
+https://github.com/ReshotAI/gaussian-painters/assets/16474636/9a391361-7d5b-40cc-ab67-97e15e53a913
+
 
 ## Visualize the "painting" process
 
