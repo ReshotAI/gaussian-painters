@@ -19,7 +19,10 @@ This will create a dataset ready to be trained with the Gaussian Splatting code.
 
 Using the SIBR visualizer, you can visualize the "painting" process during the Gaussian Splatting optimization.
 
-<video src="assets/timelapse.mp4" controls></video>
+
+https://github.com/ReshotAI/gaussian-painters/assets/16474636/b29731b6-5fcc-43f5-a169-bfed2b109ce0
+
+
 
 ## How it works?
 
