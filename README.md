@@ -28,6 +28,12 @@ https://github.com/ReshotAI/gaussian-painters/assets/16474636/4799f0b6-ed29-412e
 
 https://github.com/ReshotAI/gaussian-painters/assets/16474636/9a391361-7d5b-40cc-ab67-97e15e53a913
 
+- Lenticular effect (using `create_dataset5.py`)
+
+
+https://github.com/ReshotAI/gaussian-painters/assets/16474636/356ad0f6-3bcb-46fe-a6f8-421138e54222
+
+
 
 ## Visualize the "painting" process
 
