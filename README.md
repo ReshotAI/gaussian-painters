@@ -30,6 +30,7 @@ https://github.com/ReshotAI/gaussian-painters/assets/16474636/9a391361-7d5b-40cc
 
 - Lenticular effect (using `create_dataset5.py`)
 
+This code requires to install [kornia](https://github.com/kornia/kornia) using `pip install kornia`
 
 https://github.com/ReshotAI/gaussian-painters/assets/16474636/356ad0f6-3bcb-46fe-a6f8-421138e54222
 
