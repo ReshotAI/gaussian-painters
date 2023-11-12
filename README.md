@@ -1,5 +1,7 @@
 # Gaussian Painters
 
+- BricksAR: [link](https://www.bricksar.com)
+
 <blockquote>This is a fork of <a href="https://github.com/graphdeco-inria/gaussian-splatting">3D Gaussian Splatting</a>. Refer to the original repo for instructions on how to run the code.</blockquote>
 
 ![](assets/gaussian_painter.jpg)
