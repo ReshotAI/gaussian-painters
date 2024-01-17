@@ -1,7 +1,5 @@
 # Gaussian Painters
 
-**Sponsored by [BricksAR](https://www.bricksar.com): Build a LEGO city in AR**
-
 <blockquote>This is a fork of <a href="https://github.com/graphdeco-inria/gaussian-splatting">3D Gaussian Splatting</a>. Refer to the original repo for instructions on how to run the code.</blockquote>
 
 ![](assets/gaussian_painter.jpg)
