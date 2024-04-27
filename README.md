@@ -1,5 +1,7 @@
 # Gaussian Painters
 
+**Sponsored by <img src="https://www.lingosub.com/icon.svg" height=20 width=20 style="vertical-align: middle;"/> [LingoSub](https://www.lingosub.com): Learn languages by watching videos with AI-powered translations.**
+
 <blockquote>This is a fork of <a href="https://github.com/graphdeco-inria/gaussian-splatting">3D Gaussian Splatting</a>. Refer to the original repo for instructions on how to run the code.</blockquote>
 
 ![](assets/gaussian_painter.jpg)
